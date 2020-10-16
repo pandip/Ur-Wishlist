@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "98745976282",
+    "firebase_url": "https://ur-wishlist.firebaseio.com",
+    "project_id": "ur-wishlist",
+    "storage_bucket": "ur-wishlist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98745976282:android:5c5103fff28e120cb52ce3",
+        "android_client_info": {
+          "package_name": "com.app.dtsfinaltask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98745976282-o3g6iecvkhsoiksgrg42q2402go8jkf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_qPB0-8lAcDGcxoBUnsVD5eaR1Y7zu1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98745976282-o3g6iecvkhsoiksgrg42q2402go8jkf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
